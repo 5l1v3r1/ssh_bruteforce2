@@ -5,4 +5,4 @@ git clone https://github.com/zertmark/ssh_bruteforce2.git
 cd ssh_bruteforce2 && chmod +x installer.sh                                                       
 ./installer.sh                                                                            
 # RUN                                                
-python3 ssh_bruteforcer.py <host> <wordlist> -U login -P port 
+python3 ssh_bruteforcer.py (host) (wordlist) -U login -P port 
